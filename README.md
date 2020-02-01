@@ -1,4 +1,4 @@
-# Data-Science---United-States-Senate-Elections-2018
+# Data Science - United-States-Senate-Elections-2018
 Performed exploratory data analysis and created different regression, classification and clustering to predict the number of votes received for each party. 
 
 Part 1 (Data Preparation & Hypothesis Testing)- Readme
