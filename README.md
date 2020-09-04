@@ -1,7 +1,7 @@
 # Data Science - United-States-Senate-Elections-2018
 Performed exploratory data analysis and created different regression, classification and clustering to predict the number of votes received for each party. 
 
-## Part 1 (Data Preparation & Hypothesis Testing)- Readme
+## Part 1 (Data Preparation & Hypothesis Testing)
 
 ### Dependencies:
 If there are issues running the code for task #10, check to see if pyshp, plotly, shapely, and geopandas packages are properly installed. <br>
@@ -19,7 +19,7 @@ $ conda install -c anaconda geopandas
 *  Open the python file in Jupyter Notebook or JupyterLab and run the code segments.
 
 
-## Part 2 (Precditive Modeling - Machine Learning Algorithms)- Readme
+## Part 2 (Precditive Modeling - Machine Learning Algorithms)
 
 ### Dependencies
 Currently, there is known issue that matplotlib version 3.1.1 does not properly display the heatmap on macOS. If there is an issue doing so, please downgrade to matplotlib version 3.1.0 upgrade to matplotlib 3.1.2.
