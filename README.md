@@ -2,7 +2,7 @@
 
 Performed exploratory data analysis and created different regression, classification and clustering to predict the number of votes received for each party in each county and classified the counties based on the elected party.
 
-## Data 
+## Dataset
 This project uses the dataset that is the compilation of 2018 U.S. Census Demographic Data. 
 This dataset provides ample numerical and categorical variables that can be utilized as predictors for our regression and classification models. 
 Such predictors include race, gender, household income, unemployment rate, education and so forth. 
